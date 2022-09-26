@@ -401,7 +401,7 @@ h6 {
 }
 
 #hero .hero-info h2 span {
-  color: #74b5fc;
+  color: #C219AE;
   text-decoration: underline;
 }
 
@@ -427,8 +427,8 @@ h6 {
 }
 
 #hero .hero-info .btn-get-started {
-  background: #007bff;
-  border: 2px solid #007bff;
+  background: #F64588;
+  border: 2px solid #F64588;
   color: #fff;
 }
 
@@ -443,8 +443,8 @@ h6 {
 }
 
 #hero .hero-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
+  background: #F64588;
+  border-color: #F64588;
   color: #fff;
 }
 
